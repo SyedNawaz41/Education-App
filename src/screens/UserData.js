@@ -23,8 +23,8 @@ const UserData = () => {
   // Render the student cards
   const showUserData = () => {
  return (
-  <View>
-    
+  <View style={styles.mainContainer}>
+  <Text>hello</Text>
   </View>
  );
   };
