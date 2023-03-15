@@ -25,6 +25,7 @@ const UserData = () => {
  return (
   <View style={styles.mainContainer}>
   <Text>hello</Text>
+  <Text>hello</Text>
   </View>
  );
   };
